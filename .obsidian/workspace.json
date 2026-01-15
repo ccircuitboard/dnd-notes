@@ -6,6 +6,7 @@
       {
         "id": "771c121aaae648c8",
         "type": "tabs",
+        "dimension": 68.8871473354232,
         "children": [
           {
             "id": "9dc45b032fe52f64",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Watchtower of Boria.md",
+                "file": "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Watchtower of Boria"
+              "title": "Silverbloom Recovery"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "623e39ffcb33c205",
         "type": "tabs",
+        "dimension": 31.112852664576803,
         "children": [
           {
             "id": "a5d63140703b2f8a",
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Watchtower of Boria.md",
+                "file": "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Watchtower of Boria"
+              "title": "Backlinks for Silverbloom Recovery"
             }
           },
           {
@@ -129,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Watchtower of Boria.md",
+                "file": "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Watchtower of Boria"
+              "title": "Outgoing links from Silverbloom Recovery"
             }
           },
           {
@@ -172,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Watchtower of Boria.md",
+                "file": "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Watchtower of Boria"
+              "title": "Outline of Silverbloom Recovery"
             }
           },
           {
@@ -192,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,11 +212,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "540155af02448e5a",
+  "active": "9dc45b032fe52f64",
   "lastOpenFiles": [
+    "Liriel Etherealis/Jobs/Halgramar, The Devil.md",
+    "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
+    "Liriel Etherealis/Jobs/Watchtower of Boria.md",
     "README.md",
     "Liriel Etherealis/Untitled.md",
-    "Liriel Etherealis/Jobs/Watchtower of Boria.md",
     "Attachments",
     "Liriel Etherealis/Jobs",
     "Welcome.md",
