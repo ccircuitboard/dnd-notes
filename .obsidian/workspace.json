@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
+                "file": "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silverbloom Recovery"
+              "title": "Priest Needed!"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
+                "file": "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Silverbloom Recovery"
+              "title": "Backlinks for Priest Needed!"
             }
           },
           {
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
+                "file": "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Silverbloom Recovery"
+              "title": "Outgoing links from Priest Needed!"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
+                "file": "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Silverbloom Recovery"
+              "title": "Outline of Priest Needed!"
             }
           },
           {
@@ -214,9 +214,11 @@
   },
   "active": "9dc45b032fe52f64",
   "lastOpenFiles": [
-    "Liriel Etherealis/Jobs/Halgramar, The Devil.md",
-    "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
     "Liriel Etherealis/Jobs/Watchtower of Boria.md",
+    "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
+    "Liriel Etherealis/Jobs/Finished",
+    "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
+    "Liriel Etherealis/Jobs/Halgramar, The Devil.md",
     "README.md",
     "Liriel Etherealis/Untitled.md",
     "Attachments",
