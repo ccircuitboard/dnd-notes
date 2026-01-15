@@ -1,0 +1,1 @@
+Emissary and point of contact for the Frostveil Royal Merchants’ Guild.

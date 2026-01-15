@@ -1,0 +1,1 @@
+Head of Noble Family in Frostveil, saved her from PTSD and magical controlling by Duchess Loaffoot’s brother

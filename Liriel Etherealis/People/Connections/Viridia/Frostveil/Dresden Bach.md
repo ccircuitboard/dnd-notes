@@ -1,0 +1,1 @@
+Farmer we helped with the Night Hag, we have a free stay at his farm.

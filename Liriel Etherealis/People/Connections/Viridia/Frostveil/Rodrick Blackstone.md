@@ -1,0 +1,1 @@
+Knight who trains the guards and has a lot of connections in Frostveil

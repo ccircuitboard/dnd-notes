@@ -1,0 +1,1 @@
+Brother to Rodrick Blackstone, ex-Praetor who defied the black king and helped Vintersul fight against Riviona. Now a mercenary captain.

@@ -1,0 +1,1 @@
+Innkeeper of The Walking Elk Inn in Lugwatch, we have a free stay from stopping a robbery when we were there.

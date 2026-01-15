@@ -1,0 +1,1 @@
+Ex-adventurer who stole great wealth from the crooked nobility, owns a farm on the outskirts of Frostveil

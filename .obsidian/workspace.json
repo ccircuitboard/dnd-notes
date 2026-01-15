@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
+                "file": "Liriel Etherealis/Jobs/Halgramar, The Devil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Priest Needed!"
+              "title": "Halgramar, The Devil"
             }
           }
         ]
@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Priest Needed!"
+              "title": "Backlinks"
             }
           },
           {
@@ -131,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Priest Needed!"
+              "title": "Outgoing links"
             }
           },
           {
@@ -174,13 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Priest Needed!"
+              "title": "Outline"
             }
           },
           {
@@ -212,18 +209,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dc45b032fe52f64",
+  "active": "a5d63140703b2f8a",
   "lastOpenFiles": [
-    "Liriel Etherealis/Jobs/Watchtower of Boria.md",
-    "Liriel Etherealis/Jobs/Finished/Priest Needed!.md",
-    "Liriel Etherealis/Jobs/Finished",
-    "Liriel Etherealis/Jobs/Silverbloom Recovery.md",
     "Liriel Etherealis/Jobs/Halgramar, The Devil.md",
-    "README.md",
-    "Liriel Etherealis/Untitled.md",
-    "Attachments",
-    "Liriel Etherealis/Jobs",
-    "Welcome.md",
-    "Liriel Etherealis"
+    "Liriel Etherealis/Jobs/Finished/The New Tax and the Jinx Quickfoot Question.md",
+    "Liriel Etherealis/Lore/Curses/Kerralshwitz Lycanthropy.md",
+    "Liriel Etherealis/Lore/Elven/Names of Types of Elves.md",
+    "Liriel Etherealis/Lore/Curses",
+    "Liriel Etherealis/Dream Cleric/Rituals/Ritual of Reverberant Dreams.md",
+    "Liriel Etherealis/Lore/Elven",
+    "Liriel Etherealis/Dream Cleric/Subclass.md",
+    "Liriel Etherealis/Dream Cleric/Rituals",
+    "Liriel Etherealis/Training/Cheesemaking.md",
+    "Liriel Etherealis/Dream Cleric",
+    "Liriel Etherealis/Playing/Travel Time.md",
+    "Liriel Etherealis/Training",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Modrick Vane.md",
+    "Liriel Etherealis/Playing",
+    "Liriel Etherealis/Lore",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Rodrick Blackstone.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Malcolm Brandenburgue.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Maren.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Lady Jinx Quickfoot.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Warden Hildra Shelthair.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Lady Clair Drann.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Duchess Goldleaf.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Duchess Hunni Loaffoot.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Scout Captain Brenna Barkmoor.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Caravan Master Esrrudalia Von Manfred.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Dresden Bach.md",
+    "Liriel Etherealis/People/Connections/Viridia/Lugwatch/Barbaugh.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil",
+    "Liriel Etherealis/Jobs/Finished/Lugwatch Smith's Dog.md",
+    "Liriel Etherealis/People/Connections/Viridia",
+    "Liriel Etherealis/People/Connections/Viridia/Lugwatch",
+    "Liriel Etherealis/Jobs/Finished/Deserts South-East of Lugwatch.md",
+    "Liriel Etherealis/Jobs/Finished/Goblins South-East of Lugwatch.md",
+    "Liriel Etherealis/Jobs/Finished/Yellowfoot Company Trouble.md",
+    "Liriel Etherealis/Jobs/Finished/Priest Needed!.md"
   ]
 }
