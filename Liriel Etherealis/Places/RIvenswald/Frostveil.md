@@ -6,7 +6,7 @@ This small Chapel in the oldtown of Frostveil is dedicated to Raym the Godess of
 The Tower of Master Alaric, this small but notable tower sits quantly with the western side of the city, it watches atop a hill.
 
 **The Sylvastrum Enclave:**
-This newly sprouted garden is tended to a few migrant druids and clerics of the high ones from the south, its quant and small but quite nice. Their leader, Shaliey Morventhe a Assimar woman tends softly to the bloom.
+This newly sprouted garden is tended to a few migrant druids and clerics of the high ones from the south, its quaint and small but quite nice. Their leader, Shaliey Morventhe a Assimar woman tends softly to the bloom.
 
 **The Fogcloud**
 On the edge of the center of the City is the Fogcloud, this alchemist shop is quant but notable as it permiates fog! Its master, Vynn Elsborn, a Halfling alchemist, brews up potions of power and swift healing in the heart of city. The locals have mistified this Alchemist, claiming his Pipe blows Smokeweed far and wide so deep and thick it coats the streets around its namesake "Fogcloud"
