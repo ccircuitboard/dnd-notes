@@ -1,4 +1,4 @@
-**What:** The Duchess is negotiating a new 1% tax on sales over 1000 gold. [[Lady Jinx Quickfoot]] and other nobles have banded together against this and refuse to cooperate. She is also fervently against an increase in guard in response to more “under the table” deals happening in Frostveil.
+**What:** The Duchess is negotiating a new 1% tax on sales over 1000 gold. [[Lady Jinx Quickfoot]] and other nobles have banded together against this and refuse to cooperate. She is also fervently against an increase in guard in response to more “under the table” deals happening in [[Frostveil]].
 
 **Why:** Completing this job will get us more influence and gold - also a possible attendance at a Hunt with the Duchess.
 

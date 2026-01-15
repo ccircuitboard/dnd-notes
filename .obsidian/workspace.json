@@ -6,7 +6,7 @@
       {
         "id": "771c121aaae648c8",
         "type": "tabs",
-        "dimension": 68.8871473354232,
+        "dimension": 53.91849529780565,
         "children": [
           {
             "id": "9dc45b032fe52f64",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liriel Etherealis/Jobs/Halgramar, The Devil.md",
+                "file": "Liriel Etherealis/Jobs/Finished/The New Tax and the Jinx Quickfoot Question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Halgramar, The Devil"
+              "title": "The New Tax and the Jinx Quickfoot Question"
             }
           }
         ]
@@ -27,16 +27,20 @@
       {
         "id": "623e39ffcb33c205",
         "type": "tabs",
-        "dimension": 31.112852664576803,
+        "dimension": 46.08150470219436,
         "children": [
           {
             "id": "a5d63140703b2f8a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Liriel Etherealis/People/Connections/Viridia/Frostveil/Duchess Lyanna Goldleaf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Duchess Lyanna Goldleaf"
             }
           }
         ]
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Liriel Etherealis/People/Connections/Viridia/Frostveil/Duchess Lyanna Goldleaf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Duchess Lyanna Goldleaf"
             }
           },
           {
@@ -130,11 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Liriel Etherealis/People/Connections/Viridia/Frostveil/Duchess Lyanna Goldleaf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Duchess Lyanna Goldleaf"
             }
           },
           {
@@ -172,12 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Liriel Etherealis/People/Connections/Viridia/Frostveil/Duchess Lyanna Goldleaf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Duchess Lyanna Goldleaf"
             }
           },
           {
@@ -211,8 +218,11 @@
   },
   "active": "a5d63140703b2f8a",
   "lastOpenFiles": [
-    "Liriel Etherealis/Jobs/Halgramar, The Devil.md",
     "Liriel Etherealis/Jobs/Finished/The New Tax and the Jinx Quickfoot Question.md",
+    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Duchess Lyanna Goldleaf.md",
+    "Liriel Etherealis/Places/Frostveil.md",
+    "Liriel Etherealis/Jobs/Halgramar, The Devil.md",
+    "Liriel Etherealis/Places",
     "Liriel Etherealis/Lore/Curses/Kerralshwitz Lycanthropy.md",
     "Liriel Etherealis/Lore/Elven/Names of Types of Elves.md",
     "Liriel Etherealis/Lore/Curses",
@@ -233,7 +243,6 @@
     "Liriel Etherealis/People/Connections/Viridia/Frostveil/Lady Jinx Quickfoot.md",
     "Liriel Etherealis/People/Connections/Viridia/Frostveil/Warden Hildra Shelthair.md",
     "Liriel Etherealis/People/Connections/Viridia/Frostveil/Lady Clair Drann.md",
-    "Liriel Etherealis/People/Connections/Viridia/Frostveil/Duchess Goldleaf.md",
     "Liriel Etherealis/People/Connections/Viridia/Frostveil/Duchess Hunni Loaffoot.md",
     "Liriel Etherealis/People/Connections/Viridia/Frostveil/Scout Captain Brenna Barkmoor.md",
     "Liriel Etherealis/People/Connections/Viridia/Frostveil/Caravan Master Esrrudalia Von Manfred.md",
@@ -242,10 +251,8 @@
     "Liriel Etherealis/People/Connections/Viridia/Frostveil",
     "Liriel Etherealis/Jobs/Finished/Lugwatch Smith's Dog.md",
     "Liriel Etherealis/People/Connections/Viridia",
-    "Liriel Etherealis/People/Connections/Viridia/Lugwatch",
     "Liriel Etherealis/Jobs/Finished/Deserts South-East of Lugwatch.md",
     "Liriel Etherealis/Jobs/Finished/Goblins South-East of Lugwatch.md",
-    "Liriel Etherealis/Jobs/Finished/Yellowfoot Company Trouble.md",
-    "Liriel Etherealis/Jobs/Finished/Priest Needed!.md"
+    "Liriel Etherealis/Jobs/Finished/Yellowfoot Company Trouble.md"
   ]
 }
