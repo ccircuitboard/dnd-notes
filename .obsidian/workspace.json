@@ -6,7 +6,7 @@
       {
         "id": "771c121aaae648c8",
         "type": "tabs",
-        "dimension": 55.79937304075236,
+        "dimension": 55.32915360501567,
         "children": [
           {
             "id": "db497a1b17033b0a",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liriel Etherealis/Playing/Travel Time.md",
+                "file": "Liriel Etherealis/Notes/Session Notes Jan 16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Travel Time"
+              "title": "Session Notes Jan 16"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "1c6c8c4004994834",
         "type": "split",
-        "dimension": 44.20062695924764,
+        "dimension": 44.67084639498432,
         "children": [
           {
             "id": "623e39ffcb33c205",
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liriel Etherealis/Playing/Travel Time.md",
+                "file": "Liriel Etherealis/Books/Merinthian Atlendyr - Book of Men and Elves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Travel Time"
+              "title": "Backlinks for Merinthian Atlendyr - Book of Men and Elves"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liriel Etherealis/Playing/Travel Time.md",
+                "file": "Liriel Etherealis/Books/Merinthian Atlendyr - Book of Men and Elves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Travel Time"
+              "title": "Outgoing links from Merinthian Atlendyr - Book of Men and Elves"
             }
           },
           {
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liriel Etherealis/Playing/Travel Time.md",
+                "file": "Liriel Etherealis/Notes/Session Notes Jan 16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Travel Time"
+              "title": "Outline of Session Notes Jan 16"
             }
           },
           {
@@ -239,19 +239,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db497a1b17033b0a",
+  "active": "4cba3b28d7f25ca6",
   "lastOpenFiles": [
+    "Liriel Etherealis/Lore/Goblinoid/The Night Eye.md",
+    "Liriel Etherealis/Places/RIvenswald/The Hartwood.md",
+    "Liriel Etherealis/Lore/Goblinoid",
+    "Liriel Etherealis/Places/RIvenswald/Moonpoint.md",
+    "Liriel Etherealis/Notes/Session Notes Jan 16.md",
     "Liriel Etherealis/People/Retainers/Sir Margrave Holten \"The Red Eagle\".md",
+    "Liriel Etherealis/Books/Merinthian Atlendyr - Book of Men and Elves.md",
+    "Liriel Etherealis/Lore/Elven/The Elven Calendar.md",
+    "Liriel Etherealis/Lore/Elven/Merinthian.md",
+    "Liriel Etherealis/Playing/Travel Time.md",
     "Liriel Etherealis/Places/RIvenswald/Frostveil.md",
     "Liriel Etherealis/Jobs/The Merinthian Villain.md",
-    "Liriel Etherealis/Books/Merinthian Atlendyr - Book of Men and Elves.md",
     "Liriel Etherealis/People/Retainers",
     "Liriel Etherealis/Places/RIvenswald",
-    "Liriel Etherealis/Playing/Travel Time.md",
     "Liriel Etherealis/Jobs/Cheese Wheel for Fogcloud.md",
-    "Liriel Etherealis/Lore/Elven/The Elven Calendar.md",
     "Liriel Etherealis/Notes/Session Notes 15 Jan 2026.md",
-    "Liriel Etherealis/Lore/Elven/Merinthian.md",
     "Liriel Etherealis/Books",
     "Liriel Etherealis/Dream Cleric/Subclass.md",
     "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Caravan Master Esrrudalia Von Manfred.md",
@@ -268,14 +273,9 @@
     "Liriel Etherealis/Dream Cleric/Rituals",
     "Liriel Etherealis/Training/Cheesemaking.md",
     "Liriel Etherealis/Dream Cleric",
-    "Liriel Etherealis/Training",
     "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Modrick Vane.md",
     "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Rodrick Blackstone.md",
     "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Malcolm Brandenburgue.md",
-    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Maren.md",
-    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Lady Jinx Quickfoot.md",
-    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Warden Hildra Shelthair.md",
-    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Lady Clair Drann.md",
-    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Duchess Hunni Loaffoot.md"
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Maren.md"
   ]
 }

@@ -1,0 +1,3 @@
+- Kenku adventurer in Moonpoint found cave with Goblins, broken down hovels, old stones, and pillars
+- Leaves carriage and raspberry and tavernkeeper in Moonpoint at The Loyal Knight tavern
+- Saw many mind wisps south of our camp when we first entered the Hartwood, goblin attempted to attack our horse and I shot it. It had face paint of a white hand print. It has something yellow in the circle of the palm.
