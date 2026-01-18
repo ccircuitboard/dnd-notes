@@ -1,0 +1,4 @@
+- Orc and goblins work for the "Master".
+- Orc says "One land one race one god above all else."
+- Orc says the leader is Orgal, he is at Sylvyr(The Woodland North) which is the camp to the east
+- 

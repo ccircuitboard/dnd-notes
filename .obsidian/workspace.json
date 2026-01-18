@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liriel Etherealis/Notes/Session Notes Jan 16.md",
+                "file": "Liriel Etherealis/Jobs/The Merinthian Villain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Notes Jan 16"
+              "title": "The Merinthian Villain"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "1c6c8c4004994834",
         "type": "split",
-        "dimension": 44.67084639498432,
+        "dimension": 44.67084639498433,
         "children": [
           {
             "id": "623e39ffcb33c205",
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liriel Etherealis/Notes/Session Notes Jan 16.md",
+                "file": "Liriel Etherealis/Jobs/The Merinthian Villain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session Notes Jan 16"
+              "title": "Outline of The Merinthian Villain"
             }
           },
           {
@@ -239,20 +239,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cba3b28d7f25ca6",
+  "active": "db497a1b17033b0a",
   "lastOpenFiles": [
+    "Liriel Etherealis/Notes/Session Notes Jan 17.md",
+    "Liriel Etherealis/Jobs/The Merinthian Villain.md",
+    "Liriel Etherealis/People/Retainers/Sir Margrave Holten \"The Red Eagle\".md",
+    "Liriel Etherealis/Notes/Session Notes Jan 16.md",
     "Liriel Etherealis/Lore/Goblinoid/The Night Eye.md",
     "Liriel Etherealis/Places/RIvenswald/The Hartwood.md",
     "Liriel Etherealis/Lore/Goblinoid",
     "Liriel Etherealis/Places/RIvenswald/Moonpoint.md",
-    "Liriel Etherealis/Notes/Session Notes Jan 16.md",
-    "Liriel Etherealis/People/Retainers/Sir Margrave Holten \"The Red Eagle\".md",
     "Liriel Etherealis/Books/Merinthian Atlendyr - Book of Men and Elves.md",
     "Liriel Etherealis/Lore/Elven/The Elven Calendar.md",
     "Liriel Etherealis/Lore/Elven/Merinthian.md",
     "Liriel Etherealis/Playing/Travel Time.md",
     "Liriel Etherealis/Places/RIvenswald/Frostveil.md",
-    "Liriel Etherealis/Jobs/The Merinthian Villain.md",
     "Liriel Etherealis/People/Retainers",
     "Liriel Etherealis/Places/RIvenswald",
     "Liriel Etherealis/Jobs/Cheese Wheel for Fogcloud.md",
@@ -275,7 +276,6 @@
     "Liriel Etherealis/Dream Cleric",
     "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Modrick Vane.md",
     "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Rodrick Blackstone.md",
-    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Malcolm Brandenburgue.md",
-    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Maren.md"
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Malcolm Brandenburgue.md"
   ]
 }
