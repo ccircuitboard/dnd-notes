@@ -1,0 +1,10 @@
+- My Ayrd felt deeper, more intense, I had to trance longer to peer deeper into the veil of memory
+Ala'Sha'Zam
+Says he's a part of the Calim'Shan, an inhabitor of the Respite (which is a part of The Dream)
+A Calim'Shan is a dream protector, a dream djinn. He says those of significant importance are always protected by a Calim'Shan. He says the dream is an element, and that he and many others are spawn of it. The dream djinn are an ethereal and secretive kind. Many of the ideas of what the djinn are in the waking realm are due to the Dream Djinn's existence. They are a master of the elements and of aspiration. A blessing stowed upon them by their divine creation, they, like some of the others, have the ability to manifest change in one's life at a cost. But they are limited in many ways, just like all djinn are, but dream djinn especially. For their powerful nature may only manifest within The Dream. Outside of which, they are different, weaker. In the dream imagination are the same as reality.
+
+Ala'Sha'Zam says Calim'Shan are also trainer. Once one has control over the manifestation, one can gain control over all manifestation, even existence of the Dream itself. He also says I'm not alone in the dream and that my power is tempting. He says I must remember that I am bound to the ethics and codes of morality here. 
+
+Lesson 1: Do not bother any Calim'Shan I come across. Obey their orders no matter what they may be. There are always exceptions. Evil Calim'Shan exist. Sometimes they escape and are caught within a vessel. These genies can be very diverse.
+
+He says The Dream is like a spider's web where all things may touch each other. All things may be correct and real, that does not mean that it is beyond myself, this is my space and my dream. The tools of the dream is not of physical or magic, but of mind and the imagination. One must learn to master it before they can truly unlock its power.

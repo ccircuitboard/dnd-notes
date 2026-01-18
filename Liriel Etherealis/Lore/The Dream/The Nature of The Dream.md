@@ -1,0 +1,1 @@
+The Dream is like a spider's web where all things may touch each other. All things may be correct and real, that does not mean that it is beyond oneself, this is my space and my dream. The tools of the dream is not of physical or magic, but of mind and the imagination. One must learn to master it before they can truly unlock its power.
