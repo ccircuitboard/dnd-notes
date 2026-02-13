@@ -2,7 +2,7 @@
 **PRIMARY ABILITY:** Strength +3 and Constitution +3
 **SAVES:** Strength and Constitution
 **SKILLS:** Athletics, Survival, animal handling, perception 
-**SIGNATURE ATTACK:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 d 8  + 3 slashing damage.
+**SIGNATURE ATTACK:** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 d 6  + 3 slashing damage.
 
 #### SPECIAL ACTIONS
 **Action template=** Level (amount/ or passive) (if reaction or bonus action put here): Details
