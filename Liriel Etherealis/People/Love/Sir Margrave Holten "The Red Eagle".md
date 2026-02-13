@@ -1,7 +1,8 @@
 Questing Knight we helped fight bandits in the Lunar Passage.
 - Has been all over the place, including Evergarde
 - Was going to offer his services in Blackstone Keep before he ran into us
-- Has trusty steed Maera
+- Has trusty steed Mera
+- Is literally my boyfriend now
 
 ### Pheonix Knight
 ARMOR: Heavy (18 AC)

@@ -6,20 +6,34 @@
       {
         "id": "771c121aaae648c8",
         "type": "tabs",
-        "dimension": 55.32915360501567,
+        "dimension": 40.22842639593909,
         "children": [
           {
-            "id": "db497a1b17033b0a",
+            "id": "00c525dbc10ed74c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liriel Etherealis/People/Connections/Rivenswald/Falcon's Rest/Scout Captain Brenna Balkmoor.md",
+                "file": "Liriel Etherealis/Jobs/The Merinthian Villain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scout Captain Brenna Balkmoor"
+              "title": "The Merinthian Villain"
+            }
+          },
+          {
+            "id": "5190f3ce47e94f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liriel Etherealis/Notes/Session Notes Jan 17 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session Notes Jan 17 2026"
             }
           }
         ]
@@ -27,7 +41,7 @@
       {
         "id": "1c6c8c4004994834",
         "type": "split",
-        "dimension": 44.67084639498433,
+        "dimension": 59.77157360406091,
         "children": [
           {
             "id": "623e39ffcb33c205",
@@ -61,8 +75,7 @@
                   "title": "Moonpoint"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "18b5a84be84810b3",
@@ -216,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liriel Etherealis/Liriel's Goldmaking Diary/Moonpoint.md",
+                "file": "Liriel Etherealis/People/Retainers/Sandstone Sentinel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Moonpoint"
+              "title": "Outline of Sandstone Sentinel"
             }
           },
           {
@@ -240,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,43 +268,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb228318fbc69c94",
+  "active": "00c525dbc10ed74c",
   "lastOpenFiles": [
-    "Liriel Etherealis/Liriel's Goldmaking Diary/Ivorstead.md",
-    "Liriel Etherealis/Liriel's Goldmaking Diary/Moonpoint.md",
-    "Liriel Etherealis/Jobs/Mastering The Dream.md",
-    "Liriel Etherealis/Liriel's Goldmaking Diary",
-    "Liriel Etherealis/People/Connections/Rivenswald/Falcon's Rest/Scout Captain Brenna Balkmoor.md",
-    "Liriel Etherealis/Lore/The Dream/The Amytheon Nyxaros.md",
-    "Liriel Etherealis/Lore/The Dream/The Sappheron Elarion.md",
-    "Liriel Etherealis/Lore/The Dream/The Nature of The Dream.md",
-    "Liriel Etherealis/Lore/The Dream/The Calim'Shan.md",
-    "Liriel Etherealis/Notes/Session Notes Jan 18.md",
-    "Liriel Etherealis/People/Connections/Dream-related/Ala'Sha'Zam.md",
-    "Liriel Etherealis/Places/RIvenswald/Frostveil.md",
-    "Liriel Etherealis/People/Connections/Dream-related",
-    "Liriel Etherealis/Lore/The Dream/The Aurelithira.md",
-    "Liriel Etherealis/Lore/The Dream",
+    "Liriel Etherealis/Notes/Session Notes Feb 12 2026.md",
     "Liriel Etherealis/Jobs/The Merinthian Villain.md",
+    "Liriel Etherealis/People/Love/Sir Margrave Holten \"The Red Eagle\".md",
+    "Liriel Etherealis/Notes/Session Notes Feb 11 2026.md",
+    "Liriel Etherealis/Notes/Session Notes Jan 18 2026.md",
+    "Liriel Etherealis/Notes/Session Notes Jan 17 2026.md",
+    "Liriel Etherealis/Notes/Session Notes Jan 16 2026.md",
+    "Liriel Etherealis/People/Love/Fiona Night-of-Lune.md",
+    "Liriel Etherealis/People/Love/Untitled.md",
+    "Liriel Etherealis/People/Love/Breanna Barkmoor.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Caravan Master Esrrudalia Von Manfred.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Warden Hildra Shelthair.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Rodrick Blackstone.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Modrick Vane.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Maren.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Malcolm Brandenburgue.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Lady Jinx Quickfoot.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Lady Clair Drann.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Duchess Lyanna Goldleaf.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Duchess Hunni Loaffoot.md",
+    "Liriel Etherealis/People/Connections/Rivenswald/Frostveil/Dresden Bach.md",
+    "Liriel Etherealis/Lore/Elven/Term for Orc and Goblin.md",
+    "Liriel Etherealis/People/Love",
+    "Liriel Etherealis/People/Retainers/Sandstone Sentinel.md",
+    "Liriel Etherealis/People/Retainers/Lightning Scoundrel.md",
+    "Liriel Etherealis/Places/RIvenswald/Frostveil.md",
+    "Liriel Etherealis/Liriel's Goldmaking Diary/Moonpoint.md",
+    "Liriel Etherealis/People/Friends",
+    "Attachments/Screenshot From 2026-02-12 20-56-21.png",
+    "Liriel Etherealis/Liriel's Goldmaking Diary",
+    "Liriel Etherealis/People/Connections/Dream-related",
+    "Liriel Etherealis/Lore/The Dream",
     "Liriel Etherealis/People/Connections/Rivenswald/Falcon's Rest",
-    "Liriel Etherealis/Notes/Session Notes Jan 17.md",
-    "Liriel Etherealis/People/Retainers/Sir Margrave Holten \"The Red Eagle\".md",
-    "Liriel Etherealis/Notes/Session Notes Jan 16.md",
-    "Liriel Etherealis/Lore/Goblinoid/The Night Eye.md",
-    "Liriel Etherealis/Places/RIvenswald/The Hartwood.md",
     "Liriel Etherealis/Lore/Goblinoid",
-    "Liriel Etherealis/Places/RIvenswald/Moonpoint.md",
-    "Liriel Etherealis/Books/Merinthian Atlendyr - Book of Men and Elves.md",
-    "Liriel Etherealis/Lore/Elven/The Elven Calendar.md",
-    "Liriel Etherealis/Lore/Elven/Merinthian.md",
-    "Liriel Etherealis/Playing/Travel Time.md",
     "Liriel Etherealis/People/Retainers",
     "Liriel Etherealis/Places/RIvenswald",
-    "Liriel Etherealis/Jobs/Cheese Wheel for Fogcloud.md",
-    "Liriel Etherealis/Notes/Session Notes 15 Jan 2026.md",
-    "Liriel Etherealis/Books",
-    "Liriel Etherealis/Dream Cleric/Subclass.md",
-    "Liriel Etherealis/Notes",
-    "Liriel Etherealis/Places"
+    "Liriel Etherealis/Books"
   ]
 }

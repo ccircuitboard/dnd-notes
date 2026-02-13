@@ -1,1 +1,0 @@
-Half-Wood Elf Scout Captain at Falcon Point, can provide jobs in Marches, including the Hartwood.

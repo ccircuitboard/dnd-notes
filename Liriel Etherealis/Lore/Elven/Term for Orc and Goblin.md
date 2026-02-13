@@ -1,0 +1,2 @@
+Goblin: Morgyr
+Orc: Uruk

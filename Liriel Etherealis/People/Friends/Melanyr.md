@@ -1,0 +1,1 @@
+A girl we found who had her leg crushed by her horse falling down a ravine. We adventured together to clear the Uruk and Morgyr logging camp in the Hollow Wood.

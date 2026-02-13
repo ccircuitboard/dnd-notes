@@ -1,1 +1,1 @@
-Knight who trains the guards and has a lot of connections in Frostveil
+Knight who trains the guards and has a lot of connections in Frostveil (is a cute wolf boy)
