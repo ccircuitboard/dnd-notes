@@ -14,6 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Liriel Etherealis/Notes/Session Notes Feb 13 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session Notes Feb 13 2026"
+            }
+          },
+          {
+            "id": "5670b807be0c0886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Liriel Etherealis/Jobs/The Merinthian Villain.md",
                 "mode": "source",
                 "source": false
@@ -21,22 +35,9 @@
               "icon": "lucide-file",
               "title": "The Merinthian Villain"
             }
-          },
-          {
-            "id": "5190f3ce47e94f89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liriel Etherealis/Notes/Session Notes Jan 17 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session Notes Jan 17 2026"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1c6c8c4004994834",
@@ -151,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5
   },
   "right": {
     "id": "9b69fc267bcfaa8a",
@@ -268,10 +269,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00c525dbc10ed74c",
+  "active": "5670b807be0c0886",
   "lastOpenFiles": [
-    "Liriel Etherealis/Notes/Session Notes Feb 12 2026.md",
+    "Liriel Etherealis/Places/RIvenswald/Frostveil.md",
     "Liriel Etherealis/Jobs/The Merinthian Villain.md",
+    "Liriel Etherealis/Notes/Session Notes Feb 13 2026.md",
+    "Liriel Etherealis/Notes/Session Notes Feb 12 2026.md",
     "Liriel Etherealis/People/Love/Sir Margrave Holten \"The Red Eagle\".md",
     "Liriel Etherealis/Notes/Session Notes Feb 11 2026.md",
     "Liriel Etherealis/Notes/Session Notes Jan 18 2026.md",
@@ -295,8 +298,6 @@
     "Liriel Etherealis/People/Love",
     "Liriel Etherealis/People/Retainers/Sandstone Sentinel.md",
     "Liriel Etherealis/People/Retainers/Lightning Scoundrel.md",
-    "Liriel Etherealis/Places/RIvenswald/Frostveil.md",
-    "Liriel Etherealis/Liriel's Goldmaking Diary/Moonpoint.md",
     "Liriel Etherealis/People/Friends",
     "Attachments/Screenshot From 2026-02-12 20-56-21.png",
     "Liriel Etherealis/Liriel's Goldmaking Diary",
